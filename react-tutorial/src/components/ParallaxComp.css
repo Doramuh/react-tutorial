@@ -1,0 +1,9 @@
+.leopardRunning{
+    rotate: 90deg;
+    width: fit-content;
+    translate: 0px 400px
+}
+
+.leopardRunning img{
+    translate: 100px 50px;
+}
